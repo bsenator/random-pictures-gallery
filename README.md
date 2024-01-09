@@ -10,7 +10,7 @@
 <div class="container mt-5">
         <h1>Sayfa her yenilediğinizde size random resimleri getirir</h1>
         <ul>
-            <li>Üretken Akademi MEGA Yazılım Hafta4 için yapılmıştır.</li>>
+            <li>Üretken Akademi MEGA Yazılım Hafta4 için yapılmıştır.</li>
        </ul>
 
 <div class="mt-3">
@@ -33,6 +33,8 @@
         </div>
     </div>
 </div>
+
+
 
 </body>
 </html>
