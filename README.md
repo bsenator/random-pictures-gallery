@@ -4,25 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Resimler</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 50px;
-        }
 
-  .image-container {
-            display: flex;
-            justify-content: space-around;
-            margin-bottom: 20px;
-        }
-
-  .image-container img {
-            width: 150px;
-            height: 100px;
-            object-fit: cover;
-        }
-    </style>
 </head>
 <body>
     <h1>Sayfa her yenilediğinizde size random resimler getirir</h1>
