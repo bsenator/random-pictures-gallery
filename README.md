@@ -1,21 +1,9 @@
-<body>
-    <h1>Sayfa her yenilediğinizde size random resimler getirir</h1>
-    
-  <div class="image-container">
-      <img src="![image]()" alt="Random Resim 1">
-      <img src="![image]" alt="Random Resim 2">
-  </div>
-</html>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css">
-    <title>Random Pictures Gallery</title>
 </head>
 <body>
 
@@ -28,9 +16,9 @@
 <div class="mt-3">
         <h2>Kullanılan Diller</h2>
         <ul>
-            <li>HTML</li>>
-            <li>CSS</li>>
-            <li>JavaScript </li>>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript </li>
         </ul>
     </div>
      
