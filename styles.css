@@ -4,6 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    overflow-y: scroll; 
 }
 
 .header {
@@ -14,13 +15,15 @@ body {
     padding: 5px;
     text-align: center;
     font-weight: bold;
+    background-color: #fff; 
+    z-index: 100; 
 }
 
 .gallery-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-top: 60px;
+    margin-top: 60px; 
 }
 
 .gallery-row {
