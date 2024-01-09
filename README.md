@@ -29,7 +29,7 @@
             <img src="https://github.com/bsenator/random-pictures-gallery/assets/69959722/816f242f-7e8e-4e29-9a9f-a81c5f060673" alt="App" class="me-3">
         </div>
         <div class="col-md-6">
-            <img src="https://github.com/bsenator/random-pictures-gallery/assets/69959722/a9c6f545-0734-42ef-a138-ce5815fc31af" alt="DB">
+            <img src="https://github.com/bsenator/random-pictures-gallery/assets/69959722/b05559f3-c0f4-44a4-a4f7-030d97ca68fe" alt="DB">    
         </div>
     </div>
 </div>
